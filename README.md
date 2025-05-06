@@ -16,8 +16,8 @@
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn]([https://linkedin.com/in/SEU-USUARIO-AQUI](https://www.linkedin.com/in/luiz-ara%C3%BAjo-19a349320/))  
-- 🧠 [Portfólio]([https://SEU-PORTFOLIO-AQUI.com](https://sites.google.com/view/luizx?usp=sharing))  
+- 💼 ![LinkedIn]([https://linkedin.com/in/SEU-USUARIO-AQUI](https://www.linkedin.com/in/luiz-ara%C3%BAjo-19a349320/))  
+- 🧠 ![Portfólio]([https://SEU-PORTFOLIO-AQUI.com](https://sites.google.com/view/luizx?usp=sharing))  
 - 📬 Email: Loue0982@gmail.com
 
 ---
