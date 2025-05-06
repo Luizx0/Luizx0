@@ -1,14 +1,14 @@
-# 👋 Olá, eu sou [Seu Nome Aqui]!
+# 👋 Olá, eu sou Luiz Araujo!
 
 🎯 Atualmente em uma jornada de 90 dias para me tornar Dev Júnior  
-💻 Apaixonado por desenvolvimento front-end, especialmente HTML, CSS e C  
+💻 Apaixonado por desenvolvimento front-end e back-end, especialmente HTML, C#, C e PYTHON
 📚 Compartilhando aprendizados diários aqui no GitHub e também no LinkedIn  
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🌱 Estou aprendendo: HTML, CSS, C e lógica de programação  
+- 🌱 Estou aprendendo: programação FULL-STACK
 - 🔧 Projetos em andamento:  
   - Sistema de Estoque com Front-End e Back-End  
   - Plataforma de Estudos com Calendário de Progresso estilo GitHub  
@@ -19,16 +19,16 @@
 ## 🧠 Desafios em andamento
 
 🔸 **#90DaysOfCode** – Postando um desafio por dia no GitHub e LinkedIn  
-🔸 Estudando com foco em práticas reais, projetos pessoais e código limpo  
-🔸 Documentando tudo como forma de aprender e mostrar minha evolução
+🔸 Curso da XPInc de .NET usando C#
+🔸 Curso de programação em Python pela Bradesco
 
 ---
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/SEU-USUARIO-AQUI)  
-- 🧠 [Portfólio](https://SEU-PORTFOLIO-AQUI.com)  
-- 📬 Email: SEU-EMAIL-AQUI
+- 💼 [LinkedIn]([https://linkedin.com/in/SEU-USUARIO-AQUI](https://www.linkedin.com/in/luiz-ara%C3%BAjo-19a349320/))  
+- 🧠 [Portfólio]([https://SEU-PORTFOLIO-AQUI.com](https://sites.google.com/view/luizx?usp=sharing))  
+- 📬 Email: Loue0982@gmail.com
 
 ---
 
