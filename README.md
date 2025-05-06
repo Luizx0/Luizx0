@@ -1,24 +1,14 @@
 # 👋 Olá, eu sou Luiz Araujo!
 
-🎯 Atualmente em uma jornada de 90 dias para me tornar Dev Júnior  
-💻 Apaixonado por desenvolvimento front-end e back-end, especialmente HTML, C#, C e PYTHON
+💻 Apaixonado por desenvolvimento FULL-STACK
+🎯 Objetivo: Alcançar uma vaga como Dev Junior
 📚 Compartilhando aprendizados diários aqui no GitHub e também no LinkedIn  
-
----
-
-## 🚀 Sobre mim
-
-- 🌱 Estou aprendendo: programação FULL-STACK
-- 🔧 Projetos em andamento:  
-  - Sistema de Estoque com Front-End e Back-End  
-  - Plataforma de Estudos com Calendário de Progresso estilo GitHub  
-- 🎯 Objetivo: Conquistar minha primeira vaga como desenvolvedor júnior
 
 ---
 
 ## 🧠 Desafios em andamento
 
-🔸 **#90DaysOfCode** – Postando um desafio por dia no GitHub e LinkedIn  
+🔸 **#90DaysOfCode** – Postando um desafio por dia no GitHub e LinkedIn 
 🔸 Curso da XPInc de .NET usando C#
 🔸 Curso de programação em Python pela Bradesco
 
