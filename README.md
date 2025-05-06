@@ -9,8 +9,8 @@
 ## 🧠 Desafios em andamento
 
 🔸 **#90DaysOfCode** – Postando um desafio por dia no GitHub e LinkedIn 
-🔸 Curso da XPInc de .NET usando C#
-🔸 Curso de programação em Python pela Bradesco
+🔸 **Curso de .NET usando C#** da *XPInc*
+🔸 **Curso de Python** pela *Bradesco*
 
 ---
 
