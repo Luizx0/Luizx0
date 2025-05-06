@@ -37,13 +37,13 @@
 ## 📊 Estatísticas GitHub
 
 <!-- Visitas ao perfil -->
-![Visitantes](https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=blue)
+![Visitantes](https://komarev.com/ghpvc/?username=Luizx0&color=blue)
 
 <!-- Estatísticas -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luizx0&show_icons=true&theme=tokyonight)
 
 <!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizx0&layout=compact&theme=tokyonight)
 
 ---
 
