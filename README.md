@@ -6,19 +6,10 @@
 
 ---
 
-## 🧠 Desafios em andamento
-
-🔸 **#90DaysOfCode** – Postando um desafio por dia no GitHub e LinkedIn 
-🔸 **Curso de .NET usando C#** da *XPInc*
-🔸 **Curso de Python** pela *Bradesco*
-
----
-
-## 📫 Como me encontrar
+## 📫 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ara%C3%BAjo-19a349320/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://sites.google.com/view/luizx?usp=sharing)
-
 - 📬 Email: Loue0982@gmail.com
 
 ---
@@ -35,9 +26,6 @@
 ---
 
 ## 📊 Estatísticas GitHub
-
-<!-- Visitas ao perfil -->
-![Visitantes](https://komarev.com/ghpvc/?username=Luizx0&color=blue)
 
 <!-- Estatísticas -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luizx0&show_icons=true&theme=tokyonight)
