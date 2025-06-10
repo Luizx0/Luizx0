@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Luiz Araujo!
 
 💻 Desenvolvedor FULL-STACK
-🎯 Objetivo: Alcançar uma vaga como Dev Junior
+🎯 Objetivo: Alcançar uma vaga como Estagiario
 📚 Compartilhando aprendizados diários aqui no GitHub e também no LinkedIn  
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
