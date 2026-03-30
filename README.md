@@ -1,6 +1,6 @@
 # 👋 Luiz Felipe Araújo
 
-💻 Desenvolvedor Back-end em formação (C# / .NET)  
+💻 Desenvolvedor Full-Stack em formação 
 🎯 Buscando estágio em desenvolvimento de software  
 📍 Brasília - DF  
 
