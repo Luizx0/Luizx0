@@ -30,13 +30,13 @@ Construindo APIs, trabalhando com banco de dados e organizando projetos com boas
 ## 📂 Projetos
 
 🔹 **[RotinaXP API](https://github.com/Luizx0/SEU-REPO-AQUI)**  
-API em desenvolvimento com arquitetura em camadas (Domain, Application, Infrastructure), focada em organização, escalabilidade e boas práticas  
+API em desenvolvimento com arquitetura em camadas (Domain, Application, Infrastructure)
 
 🔹 **[Minimal API - Veículos](https://github.com/Luizx0/minimal-APIs---Veiculos)**  
 API desenvolvida com .NET utilizando Minimal APIs para gerenciamento de veículos  
 
 🔹 **[Sistema de Relatos de Bugs](https://github.com/Luizx0/SistemaRelatosBugs)**  
-Sistema para registro e gerenciamento de bugs, com foco em organização de dados e fluxo de informações  
+Sistema para registro e gerenciamento de bugs, com organização de dados e fluxo de informações  
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luizx0&theme=cobalt&hide_border=true&border_radius=4&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun)](https://git.io/streak-stats)
