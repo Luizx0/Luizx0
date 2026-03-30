@@ -1,79 +1,54 @@
 # 👋 Luiz Felipe Araújo
 
 💻 Desenvolvedor Back-end em formação (C# / .NET)  
-🎯 Foco: Estágio em Desenvolvimento de Software  
+🎯 Buscando estágio em desenvolvimento de software  
 📍 Brasília - DF  
 
 ---
 
-## 🚀 Sobre mim
-
-Estudante de Ciência da Computação com foco em desenvolvimento back-end utilizando C# e .NET.  
-Estou construindo projetos práticos com arquitetura organizada, APIs REST e integração com banco de dados.
-
-Busco minha primeira oportunidade como estagiário para aplicar na prática o que venho estudando e evoluir tecnicamente.
+## 🚀 Sobre
+Estudante de Ciência da Computação focado em desenvolvimento back-end.  
+Construindo APIs, trabalhando com banco de dados e organizando projetos com boas práticas de arquitetura.
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🧠 Tecnologias
 
-### 💻 Linguagens
+**Backend:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### ⚙️ Backend
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### 🗄️ Banco de Dados
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Banco de Dados:**  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Ferramentas
-- Git & GitHub  
-- Visual Studio / VS Code  
-- DBeaver  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos
 
-### 🔹 RotinaXP API (em desenvolvimento)
-API estruturada com arquitetura em camadas (Domain, Application, Infrastructure)  
-- CRUD de tarefas  
-- Organização por features  
-- Boas práticas de código e escalabilidade  
+🔹 **[RotinaXP API](https://github.com/Luizx0)**  
+API com arquitetura em camadas (Domain, Application, Infrastructure)  
 
-👉 Em evolução contínua
+🔹 **[Sistema de Estoque](https://github.com/Luizx0/sistema-de-estoque)**  
+Projeto full stack com controle de dados  
 
----
-
-### 🔹 Sistema de Estoque
-Projeto full stack com foco em organização de dados  
-👉 https://github.com/Luizx0/sistema-de-estoque  
+🔹 **[Fórmulas em C](https://github.com/Luizx0/Formules)**  
+Prática de lógica e algoritmos  
 
 ---
 
-### 🔹 Fórmulas Matemáticas em C
-Implementações de cálculos matemáticos para prática de lógica  
-👉 https://github.com/Luizx0/Formules  
+## 📊 GitHub
 
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luizx0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizx0&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Luizx0&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizx0&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://sites.google.com/view/luizx?usp=sharing)
-[![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Loue0982@gmail.com)
-
----
-
-## 📌 Mentalidade
-
-> Construindo consistência todos os dias para me tornar um desenvolvedor sólido.
+[LinkedIn](https://www.linkedin.com/) •  
+[Portfólio](https://sites.google.com/view/luizx?usp=sharing) •  
+[Loue0982@gmail.com](mailto:Loue0982@gmail.com)
