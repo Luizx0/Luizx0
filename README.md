@@ -29,14 +29,14 @@ Construindo APIs, trabalhando com banco de dados e organizando projetos com boas
 
 ## 📂 Projetos
 
-🔹 **[RotinaXP API](https://github.com/Luizx0)**  
-API com arquitetura em camadas (Domain, Application, Infrastructure)  
+🔹 **[RotinaXP API](https://github.com/Luizx0/SEU-REPO-AQUI)**  
+API em desenvolvimento com arquitetura em camadas (Domain, Application, Infrastructure), focada em organização, escalabilidade e boas práticas  
 
-🔹 **[Sistema de Estoque](https://github.com/Luizx0/sistema-de-estoque)**  
-Projeto full stack com controle de dados  
+🔹 **[Minimal API - Veículos](https://github.com/Luizx0/minimal-APIs---Veiculos)**  
+API desenvolvida com .NET utilizando Minimal APIs para gerenciamento de veículos  
 
-🔹 **[Fórmulas em C](https://github.com/Luizx0/Formules)**  
-Prática de lógica e algoritmos  
+🔹 **[Sistema de Relatos de Bugs](https://github.com/Luizx0/SistemaRelatosBugs)**  
+Sistema para registro e gerenciamento de bugs, com foco em organização de dados e fluxo de informações  
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luizx0&theme=cobalt&hide_border=true&border_radius=4&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun)](https://git.io/streak-stats)
@@ -46,4 +46,4 @@ Prática de lógica e algoritmos
 
 [LinkedIn](https://www.linkedin.com/) •  
 [Portfólio](https://sites.google.com/view/luizx?usp=sharing) •  
-[Loue0982@gmail.com](mailto:Loue0982@gmail.com)
+[Loue0982@gmail.com](mailto:Loue0982@gmail.com) •  
