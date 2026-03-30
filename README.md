@@ -44,7 +44,7 @@ Prática de lógica e algoritmos
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luizx0&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizx0&layout=compact&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luizx0&theme=cobalt&hide_border=true&border_radius=4&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun)](https://git.io/streak-stats)
 ---
 
 ## 📫 Contato
