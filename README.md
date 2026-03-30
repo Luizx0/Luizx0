@@ -44,6 +44,6 @@ Prática de lógica e algoritmos
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/) •  
-[Portfólio](https://sites.google.com/view/luizx?usp=sharing) •  
-[Loue0982@gmail.com](mailto:Loue0982@gmail.com)
+![LinkedIn](https://www.linkedin.com/) •  
+![Portfólio](https://sites.google.com/view/luizx?usp=sharing) •  
+![Loue0982@gmail.com](mailto:Loue0982@gmail.com)
