@@ -1,8 +1,8 @@
 # 👋 Luiz Felipe Araújo
 
-💻 Desenvolvedor Full-Stack em formação 
-
+💻 Desenvolvedor Full-Stack em formação   
 🎯 Buscando estágio em desenvolvimento de software  
+
 📍 Brasília - DF  
 
 ---
